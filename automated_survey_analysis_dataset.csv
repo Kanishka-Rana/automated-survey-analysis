@@ -1,0 +1,506 @@
+Customer_ID,Age,Gender,Category,Rating,Feedback
+C0001,58,Female,Customer Support,5,Very satisfied with the service. Everything was smooth.
+C0002,32,Female,Service Quality,2,Customer support was slow and unhelpful.
+C0003,23,Other,Website/App,1,I had a bad experience and would not recommend this service.
+C0004,31,Female,Billing,4,Excellent customer support and a very good experience.
+C0005,30,Other,Service Quality,4,Amazing service and very easy to use.
+C0006,32,Male,Billing,3,The service was okay and met my basic expectations.
+C0007,28,Other,Website/App,3,The product arrived as expected.
+C0008,31,Male,Customer Support,2,I had a bad experience and would not recommend this service.
+C0009,40,Male,Billing,3,The service was okay and met my basic expectations.
+C0010,47,Other,Customer Support,5,Amazing service and very easy to use.
+C0011,23,Other,Delivery,5,I am happy with the service and would use it again.
+C0012,41,Other,Product Quality,4,The service was excellent and the staff were very helpful.
+C0013,60,Female,Delivery,5,Very satisfied with the service. Everything was smooth.
+C0014,24,Male,Delivery,4,I loved the overall experience. The process was simple.
+C0015,28,Male,Delivery,3,The support team answered my question.
+C0016,59,Female,Billing,4,Excellent customer support and a very good experience.
+C0017,33,Female,Website/App,3,The service worked as expected.
+C0018,32,Other,Delivery,5,The service was excellent and the staff were very helpful.
+C0019,32,Female,Delivery,4,I had a great experience and would definitely recommend this service.
+C0020,31,Other,Service Quality,3,My experience was neither very good nor very bad.
+C0021,43,Other,Website/App,2,The product quality was poor and delivery was very late.
+C0022,33,Other,Billing,4,I am happy with the service and would use it again.
+C0023,45,Other,Website/App,3,The product arrived as expected.
+C0024,50,Male,Customer Support,5,I had a great experience and would definitely recommend this service.
+C0025,27,Other,Product Quality,5,Amazing service and very easy to use.
+C0026,56,Female,Website/App,3,My experience was neither very good nor very bad.
+C0027,51,Male,Billing,5,The service was excellent and the staff were very helpful.
+C0028,25,Other,Billing,5,I loved the overall experience. The process was simple.
+C0029,25,Male,Website/App,2,The service was disappointing and the staff were not helpful.
+C0030,34,Other,Product Quality,4,
+C0031,58,Male,Service Quality,4,Very satisfied with the service. Everything was smooth.
+C0032,27,Male,Product Quality,4,Excellent customer support and a very good experience.
+C0033,18,Other,Delivery,4,I had a great experience and would definitely recommend this service.
+C0034,41,Male,Product Quality,1,I am unhappy with the service and would not use it again.
+C0035,23,Female,Service Quality,4,I had a great experience and would definitely recommend this service.
+C0036,52,Female,Product Quality,4,Excellent customer support and a very good experience.
+C0037,28,Male,Billing,5,Amazing service and very easy to use.
+C0038,31,Other,Service Quality,4,The support team resolved my issue quickly and politely.
+C0039,43,Other,Service Quality,3,The service worked as expected.
+C0040,46,Female,Product Quality,3,The process was straightforward.
+C0041,19,Other,Billing,3,The service was acceptable but could be improved.
+C0042,18,Female,Service Quality,4,Very satisfied with the service. Everything was smooth.
+C0043,22,Female,Delivery,2,Very dissatisfied with the service. The process was frustrating.
+C0044,35,Other,Website/App,3,The product arrived as expected.
+C0045,54,Other,Website/App,3,My experience was neither very good nor very bad.
+C0046,44,Female,Customer Support,2,The service was frustrating and confusing.
+C0047,40,Male,Website/App,4,The service was excellent and the staff were very helpful.
+C0048,59,Other,Customer Support,1,The overall experience was poor and difficult to use.
+C0049,24,Female,Product Quality,2,The product did not meet my expectations.
+C0050,26,Male,Product Quality,3,The service was acceptable but could be improved.
+C0051,22,Male,Billing,2,Customer support was slow and unhelpful.
+C0052,18,Female,Product Quality,2,The product did not meet my expectations.
+C0053,48,Female,Website/App,5,The product quality was excellent and delivery was quick.
+C0054,42,Female,Website/App,3,My experience was neither very good nor very bad.
+C0055,36,Male,Service Quality,5,Excellent customer support and a very good experience.
+C0056,60,Other,Website/App,2,The support team took too long to resolve my issue.
+C0057,31,Female,Billing,5,The service was excellent and the staff were very helpful.
+C0058,38,Female,Customer Support,4,Excellent customer support and a very good experience.
+C0059,51,Female,Customer Support,5,I had a great experience and would definitely recommend this service.
+C0060,29,Female,Billing,1,Very dissatisfied with the service. The process was frustrating.
+C0061,43,Female,Billing,3,The overall experience was normal.
+C0062,20,Other,Customer Support,4,I am happy with the service and would use it again.
+C0063,54,Other,Delivery,5,Very satisfied with the service. Everything was smooth.
+C0064,60,Other,Delivery,3,The product was satisfactory for the price.
+C0065,26,Other,Service Quality,3,The process was straightforward.
+C0066,22,Female,Website/App,4,I am happy with the service and would use it again.
+C0067,24,Female,Billing,3,The support team answered my question.
+C0068,26,Male,Customer Support,5,I loved the overall experience. The process was simple.
+C0069,36,Female,Website/App,5,The support team resolved my issue quickly and politely.
+C0070,57,Other,Billing,1,Customer support was slow and unhelpful.
+C0071,37,Other,Customer Support,5,The product quality was excellent and delivery was quick.
+C0072,34,Female,Customer Support,5,The product quality was excellent and delivery was quick.
+C0073,35,Male,Billing,3,The process was straightforward.
+C0074,31,Other,Service Quality,5,Excellent customer support and a very good experience.
+C0075,49,Male,Customer Support,2,The service was frustrating and confusing.
+C0076,35,Female,Customer Support,3,The product arrived as expected.
+C0077,58,Male,Product Quality,5,Excellent customer support and a very good experience.
+C0078,45,Other,Customer Support,2,The product quality was poor and delivery was very late.
+C0079,52,Female,Delivery,4,The product quality was excellent and delivery was quick.
+C0080,45,Female,Customer Support,3,The service was okay and met my basic expectations.
+C0081,40,Female,Service Quality,3,The experience was average. There were both good and bad parts.
+C0082,40,Other,Website/App,5,The product quality was excellent and delivery was quick.
+C0083,33,Female,Product Quality,5,The service was excellent and the staff were very helpful.
+C0084,29,Other,Delivery,5,Amazing service and very easy to use.
+C0085,60,Other,Product Quality,3,The experience was average. There were both good and bad parts.
+C0086,42,Female,Website/App,3,My experience was neither very good nor very bad.
+C0087,40,Male,Product Quality,3,The service was acceptable but could be improved.
+C0088,43,Male,Delivery,5,The support team resolved my issue quickly and politely.
+C0089,40,Other,Billing,3,The service worked as expected.
+C0090,39,Female,Customer Support,5,The support team resolved my issue quickly and politely.
+C0091,29,Other,Delivery,1,I am unhappy with the service and would not use it again.
+C0092,45,Male,Service Quality,5,Amazing service and very easy to use.
+C0093,56,Other,Customer Support,3,The overall experience was normal.
+C0094,30,Male,Customer Support,4,The service was excellent and the staff were very helpful.
+C0095,51,Other,Service Quality,4,Very satisfied with the service. Everything was smooth.
+C0096,41,Male,Customer Support,5,I loved the overall experience. The process was simple.
+C0097,57,Male,Service Quality,5,The support team resolved my issue quickly and politely.
+C0098,50,Male,Service Quality,4,Amazing service and very easy to use.
+C0099,36,Other,Product Quality,2,The service was frustrating and confusing.
+C0100,29,Other,Billing,3,The service worked as expected.
+C0101,18,Male,Delivery,3,The overall experience was normal.
+C0102,56,Other,Delivery,4,The product met my expectations and arrived on time.
+C0103,31,Other,Website/App,5,The product quality was excellent and delivery was quick.
+C0104,60,Female,Delivery,4,I am happy with the service and would use it again.
+C0105,39,Female,Product Quality,4,Very satisfied with the service. Everything was smooth.
+C0106,30,Female,Customer Support,1,The product did not meet my expectations.
+C0107,57,Female,Website/App,4,I am happy with the service and would use it again.
+C0108,30,Other,Service Quality,3,The product was satisfactory for the price.
+C0109,33,Female,Service Quality,4,I had a great experience and would definitely recommend this service.
+C0110,45,Female,Product Quality,5,Excellent customer support and a very good experience.
+C0111,47,Female,Billing,3,The experience was average. There were both good and bad parts.
+C0112,47,Female,Website/App,4,Excellent customer support and a very good experience.
+C0113,56,Male,Website/App,4,Excellent customer support and a very good experience.
+C0114,45,Other,Website/App,5,The product met my expectations and arrived on time.
+C0115,46,Male,Product Quality,5,The support team resolved my issue quickly and politely.
+C0116,51,Male,Service Quality,3,My experience was neither very good nor very bad.
+C0117,22,Other,Delivery,3,The process was straightforward.
+C0118,38,Other,Customer Support,2,Very dissatisfied with the service. The process was frustrating.
+C0119,42,Other,Product Quality,4,I had a great experience and would definitely recommend this service.
+C0120,44,Male,Delivery,4,Amazing service and very easy to use.
+C0121,21,Female,Website/App,3,The overall experience was normal.
+C0122,19,Other,Website/App,4,I loved the overall experience. The process was simple.
+C0123,37,Male,Website/App,4,Excellent customer support and a very good experience.
+C0124,56,Female,Website/App,3,The product was satisfactory for the price.
+C0125,49,Female,Website/App,3,The product was satisfactory for the price.
+C0126,28,Male,Product Quality,5,Excellent customer support and a very good experience.
+C0127,19,Male,Billing,4,The service was excellent and the staff were very helpful.
+C0128,23,Other,Website/App,2,The product did not meet my expectations.
+C0129,29,Female,Delivery,3,The service was acceptable but could be improved.
+C0130,47,Male,Delivery,5,Amazing service and very easy to use.
+C0131,35,Male,Delivery,5,The product met my expectations and arrived on time.
+C0132,19,Other,Billing,1,The overall experience was poor and difficult to use.
+C0133,32,Other,Customer Support,5,The service was excellent and the staff were very helpful.
+C0134,19,Female,Product Quality,5,I am happy with the service and would use it again.
+C0135,27,Female,Product Quality,4,I had a great experience and would definitely recommend this service.
+C0136,54,Female,Website/App,4,I loved the overall experience. The process was simple.
+C0137,28,Other,Billing,5,I had a great experience and would definitely recommend this service.
+C0138,28,Male,Customer Support,4,The support team resolved my issue quickly and politely.
+C0139,54,Other,Website/App,3,The service was acceptable but could be improved.
+C0140,22,Other,Service Quality,5,Very satisfied with the service. Everything was smooth.
+C0141,24,Other,Delivery,5,I am happy with the service and would use it again.
+C0142,25,Other,Customer Support,3,The product was satisfactory for the price.
+C0143,60,Male,Customer Support,4,I loved the overall experience. The process was simple.
+C0144,18,Male,Website/App,2,The overall experience was poor and difficult to use.
+C0145,58,Male,Service Quality,2,The product quality was poor and delivery was very late.
+C0146,51,Other,Delivery,4,Excellent customer support and a very good experience.
+C0147,48,Male,Website/App,5,I am happy with the service and would use it again.
+C0148,35,Male,Product Quality,5,I had a great experience and would definitely recommend this service.
+C0149,35,Male,Product Quality,5,I am happy with the service and would use it again.
+C0150,57,Other,Website/App,3,My experience was neither very good nor very bad.
+C0151,38,Female,Website/App,3,The support team answered my question.
+C0152,39,Male,Billing,4,The support team resolved my issue quickly and politely.
+C0153,53,Female,Billing,5,I had a great experience and would definitely recommend this service.
+C0154,33,Other,Website/App,4,Very satisfied with the service. Everything was smooth.
+C0155,48,Other,Service Quality,4,The service was excellent and the staff were very helpful.
+C0156,23,Male,Product Quality,4,Very satisfied with the service. Everything was smooth.
+C0157,37,Other,Billing,3,The service worked as expected.
+C0158,51,Male,Website/App,5,
+C0159,39,Male,Service Quality,4,The support team resolved my issue quickly and politely.
+C0160,34,Female,Customer Support,5,I loved the overall experience. The process was simple.
+C0161,25,Other,Billing,5,The product quality was excellent and delivery was quick.
+C0162,30,Female,Service Quality,4,I am happy with the service and would use it again.
+C0163,51,Other,Delivery,5,Very satisfied with the service. Everything was smooth.
+C0164,36,Female,Delivery,2,The service was disappointing and the staff were not helpful.
+C0165,52,Female,Delivery,1,The service was disappointing and the staff were not helpful.
+C0166,53,Male,Service Quality,5,The product met my expectations and arrived on time.
+C0167,24,Female,Billing,3,My experience was neither very good nor very bad.
+C0168,46,Male,Product Quality,5,The support team resolved my issue quickly and politely.
+C0169,48,Female,Customer Support,4,I had a great experience and would definitely recommend this service.
+C0170,54,Other,Service Quality,1,The product quality was poor and delivery was very late.
+C0171,54,Male,Customer Support,5,I had a great experience and would definitely recommend this service.
+C0172,53,Male,Billing,4,I am happy with the service and would use it again.
+C0173,32,Other,Website/App,4,The product met my expectations and arrived on time.
+C0174,37,Other,Website/App,3,The overall experience was normal.
+C0175,21,Other,Service Quality,2,Very dissatisfied with the service. The process was frustrating.
+C0176,58,Female,Delivery,4,The product quality was excellent and delivery was quick.
+C0177,33,Female,Billing,2,The service was disappointing and the staff were not helpful.
+C0178,44,Male,Service Quality,4,The support team resolved my issue quickly and politely.
+C0179,20,Female,Delivery,4,The product met my expectations and arrived on time.
+C0180,22,Other,Product Quality,5,I am happy with the service and would use it again.
+C0181,60,Female,Website/App,2,Very dissatisfied with the service. The process was frustrating.
+C0182,59,Female,Delivery,5,I had a great experience and would definitely recommend this service.
+C0183,21,Female,Delivery,4,I am happy with the service and would use it again.
+C0184,36,Male,Customer Support,4,The support team resolved my issue quickly and politely.
+C0185,43,Male,Billing,4,The product met my expectations and arrived on time.
+C0186,23,Other,Customer Support,5,I loved the overall experience. The process was simple.
+C0187,56,Male,Customer Support,2,I am unhappy with the service and would not use it again.
+C0188,55,Female,Service Quality,5,I am happy with the service and would use it again.
+C0189,20,Female,Website/App,4,The product met my expectations and arrived on time.
+C0190,35,Female,Billing,4,The product met my expectations and arrived on time.
+C0191,23,Male,Delivery,4,I loved the overall experience. The process was simple.
+C0192,60,Female,Product Quality,3,My experience was neither very good nor very bad.
+C0193,36,Other,Website/App,5,Excellent customer support and a very good experience.
+C0194,20,Male,Customer Support,3,The process was straightforward.
+C0195,25,Male,Billing,5,The service was excellent and the staff were very helpful.
+C0196,60,Other,Website/App,4,Very satisfied with the service. Everything was smooth.
+C0197,51,Male,Billing,5,The product met my expectations and arrived on time.
+C0198,21,Female,Delivery,4,The support team resolved my issue quickly and politely.
+C0199,46,Other,Website/App,2,I am unhappy with the service and would not use it again.
+C0200,33,Other,Product Quality,3,The service was okay and met my basic expectations.
+C0201,53,Male,Customer Support,3,The experience was average. There were both good and bad parts.
+C0202,47,Female,Service Quality,5,The product met my expectations and arrived on time.
+C0203,36,Other,Service Quality,3,My experience was neither very good nor very bad.
+C0204,48,Female,Website/App,4,Amazing service and very easy to use.
+C0205,30,Other,Billing,5,The product quality was excellent and delivery was quick.
+C0206,22,Male,Website/App,3,The service worked as expected.
+C0207,35,Female,Delivery,5,I am happy with the service and would use it again.
+C0208,55,Other,Website/App,5,The product met my expectations and arrived on time.
+C0209,52,Male,Delivery,3,The service worked as expected.
+C0210,42,Male,Delivery,5,Very satisfied with the service. Everything was smooth.
+C0211,54,Male,Product Quality,5,Amazing service and very easy to use.
+C0212,20,Male,Service Quality,4,Amazing service and very easy to use.
+C0213,42,Other,Service Quality,5,The product met my expectations and arrived on time.
+C0214,20,Female,Billing,5,I loved the overall experience. The process was simple.
+C0215,24,Male,Customer Support,4,The product met my expectations and arrived on time.
+C0216,18,Other,Product Quality,4,The product quality was excellent and delivery was quick.
+C0217,22,Male,Delivery,3,The product was satisfactory for the price.
+C0218,59,Female,Delivery,5,Excellent customer support and a very good experience.
+C0219,42,Male,Service Quality,4,The product met my expectations and arrived on time.
+C0220,52,Female,Billing,1,The support team took too long to resolve my issue.
+C0221,32,Other,Customer Support,4,I had a great experience and would definitely recommend this service.
+C0222,58,Other,Customer Support,4,The support team resolved my issue quickly and politely.
+C0223,19,Female,Delivery,5,The support team resolved my issue quickly and politely.
+C0224,40,Male,Website/App,2,Customer support was slow and unhelpful.
+C0225,44,Other,Service Quality,5,The product quality was excellent and delivery was quick.
+C0226,29,Female,Billing,5,I am happy with the service and would use it again.
+C0227,33,Male,Billing,2,The product did not meet my expectations.
+C0228,58,Male,Website/App,3,The service was okay and met my basic expectations.
+C0229,47,Male,Service Quality,4,I had a great experience and would definitely recommend this service.
+C0230,46,Male,Billing,3,The product was satisfactory for the price.
+C0231,34,Male,Delivery,2,The service was frustrating and confusing.
+C0232,48,Female,Product Quality,3,The process was straightforward.
+C0233,54,Male,Service Quality,3,The product was satisfactory for the price.
+C0234,35,Female,Billing,5,The service was excellent and the staff were very helpful.
+C0235,56,Other,Website/App,5,The support team resolved my issue quickly and politely.
+C0236,32,Other,Delivery,3,The service was acceptable but could be improved.
+C0237,57,Male,Service Quality,5,
+C0238,58,Female,Service Quality,4,The support team resolved my issue quickly and politely.
+C0239,46,Female,Billing,3,The product arrived as expected.
+C0240,23,Male,Delivery,5,The product quality was excellent and delivery was quick.
+C0241,30,Female,Billing,5,I loved the overall experience. The process was simple.
+C0242,51,Other,Delivery,5,The support team resolved my issue quickly and politely.
+C0243,48,Male,Service Quality,5,I had a great experience and would definitely recommend this service.
+C0244,47,Female,Product Quality,5,Very satisfied with the service. Everything was smooth.
+C0245,43,Other,Delivery,2,The service was frustrating and confusing.
+C0246,18,Male,Billing,2,The overall experience was poor and difficult to use.
+C0247,34,Other,Website/App,5,I loved the overall experience. The process was simple.
+C0248,24,Other,Product Quality,4,I am happy with the service and would use it again.
+C0249,53,Male,Billing,3,The experience was average. There were both good and bad parts.
+C0250,58,Male,Service Quality,3,The product was satisfactory for the price.
+C0251,25,Female,Customer Support,5,The support team resolved my issue quickly and politely.
+C0252,49,Female,Customer Support,3,The service worked as expected.
+C0253,26,Male,Website/App,3,The service worked as expected.
+C0254,44,Other,Service Quality,5,Amazing service and very easy to use.
+C0255,59,Female,Website/App,4,The support team resolved my issue quickly and politely.
+C0256,20,Other,Delivery,3,My experience was neither very good nor very bad.
+C0257,33,Male,Customer Support,5,I loved the overall experience. The process was simple.
+C0258,52,Other,Delivery,1,The support team took too long to resolve my issue.
+C0259,30,Female,Website/App,2,Very dissatisfied with the service. The process was frustrating.
+C0260,59,Other,Billing,5,The service was excellent and the staff were very helpful.
+C0261,39,Female,Product Quality,5,Very satisfied with the service. Everything was smooth.
+C0262,22,Other,Product Quality,4,Very satisfied with the service. Everything was smooth.
+C0263,39,Female,Billing,1,The product quality was poor and delivery was very late.
+C0264,26,Other,Delivery,5,I had a great experience and would definitely recommend this service.
+C0265,60,Female,Product Quality,1,Very dissatisfied with the service. The process was frustrating.
+C0266,55,Male,Customer Support,2,The service was disappointing and the staff were not helpful.
+C0267,26,Other,Website/App,4,I had a great experience and would definitely recommend this service.
+C0268,48,Male,Delivery,4,I had a great experience and would definitely recommend this service.
+C0269,46,Other,Product Quality,5,The service was excellent and the staff were very helpful.
+C0270,60,Other,Delivery,4,The service was excellent and the staff were very helpful.
+C0271,21,Male,Website/App,4,I had a great experience and would definitely recommend this service.
+C0272,49,Other,Website/App,2,I had a bad experience and would not recommend this service.
+C0273,38,Other,Product Quality,1,The support team took too long to resolve my issue.
+C0274,57,Other,Billing,4,I loved the overall experience. The process was simple.
+C0275,42,Other,Billing,3,The service worked as expected.
+C0276,56,Male,Customer Support,5,I had a great experience and would definitely recommend this service.
+C0277,59,Other,Billing,5,Very satisfied with the service. Everything was smooth.
+C0278,45,Male,Product Quality,4,The product met my expectations and arrived on time.
+C0279,43,Male,Service Quality,2,The service was frustrating and confusing.
+C0280,38,Other,Delivery,3,The product arrived as expected.
+C0281,48,Female,Customer Support,5,I had a great experience and would definitely recommend this service.
+C0282,45,Female,Service Quality,5,The product quality was excellent and delivery was quick.
+C0283,53,Female,Billing,5,Excellent customer support and a very good experience.
+C0284,39,Other,Customer Support,4,Amazing service and very easy to use.
+C0285,21,Male,Billing,3,The experience was average. There were both good and bad parts.
+C0286,54,Other,Product Quality,2,The product did not meet my expectations.
+C0287,32,Female,Delivery,5,
+C0288,25,Male,Billing,3,The product was satisfactory for the price.
+C0289,53,Other,Billing,4,
+C0290,19,Other,Service Quality,5,The support team resolved my issue quickly and politely.
+C0291,19,Female,Delivery,4,The support team resolved my issue quickly and politely.
+C0292,39,Male,Customer Support,2,The product quality was poor and delivery was very late.
+C0293,54,Other,Website/App,1,The service was disappointing and the staff were not helpful.
+C0294,23,Other,Billing,3,The product was satisfactory for the price.
+C0295,47,Male,Product Quality,3,The process was straightforward.
+C0296,54,Other,Customer Support,5,The product quality was excellent and delivery was quick.
+C0297,28,Other,Customer Support,4,The support team resolved my issue quickly and politely.
+C0298,46,Other,Website/App,4,The product met my expectations and arrived on time.
+C0299,44,Male,Product Quality,5,I had a great experience and would definitely recommend this service.
+C0300,40,Male,Customer Support,3,The overall experience was normal.
+C0301,49,Other,Service Quality,3,The service was acceptable but could be improved.
+C0302,43,Other,Customer Support,1,The support team took too long to resolve my issue.
+C0303,31,Female,Delivery,3,The experience was average. There were both good and bad parts.
+C0304,18,Male,Service Quality,4,The product quality was excellent and delivery was quick.
+C0305,42,Other,Service Quality,3,The service worked as expected.
+C0306,60,Male,Customer Support,3,The service was okay and met my basic expectations.
+C0307,45,Female,Website/App,5,I loved the overall experience. The process was simple.
+C0308,54,Male,Billing,4,Amazing service and very easy to use.
+C0309,36,Female,Website/App,1,The overall experience was poor and difficult to use.
+C0310,28,Other,Website/App,5,I loved the overall experience. The process was simple.
+C0311,23,Male,Customer Support,3,The overall experience was normal.
+C0312,43,Other,Customer Support,3,The support team answered my question.
+C0313,39,Female,Delivery,5,I had a great experience and would definitely recommend this service.
+C0314,50,Other,Customer Support,4,Very satisfied with the service. Everything was smooth.
+C0315,40,Male,Service Quality,5,The product quality was excellent and delivery was quick.
+C0316,33,Female,Product Quality,3,The product arrived as expected.
+C0317,56,Female,Service Quality,2,The product did not meet my expectations.
+C0318,47,Other,Billing,4,I am happy with the service and would use it again.
+C0319,59,Other,Billing,3,The process was straightforward.
+C0320,27,Male,Customer Support,4,The support team resolved my issue quickly and politely.
+C0321,35,Other,Customer Support,3,The experience was average. There were both good and bad parts.
+C0322,37,Male,Website/App,1,The overall experience was poor and difficult to use.
+C0323,36,Female,Service Quality,5,I had a great experience and would definitely recommend this service.
+C0324,57,Other,Billing,3,The overall experience was normal.
+C0325,53,Other,Customer Support,4,I am happy with the service and would use it again.
+C0326,59,Female,Delivery,4,Excellent customer support and a very good experience.
+C0327,27,Female,Website/App,2,The overall experience was poor and difficult to use.
+C0328,23,Other,Service Quality,2,Very dissatisfied with the service. The process was frustrating.
+C0329,46,Male,Billing,4,The product quality was excellent and delivery was quick.
+C0330,41,Male,Delivery,3,The process was straightforward.
+C0331,56,Female,Service Quality,4,I had a great experience and would definitely recommend this service.
+C0332,39,Female,Billing,4,The support team resolved my issue quickly and politely.
+C0333,34,Other,Service Quality,5,I am happy with the service and would use it again.
+C0334,27,Male,Customer Support,4,The product quality was excellent and delivery was quick.
+C0335,40,Male,Service Quality,4,Amazing service and very easy to use.
+C0336,26,Other,Service Quality,5,The support team resolved my issue quickly and politely.
+C0337,53,Male,Service Quality,5,The product quality was excellent and delivery was quick.
+C0338,60,Other,Service Quality,5,Excellent customer support and a very good experience.
+C0339,23,Other,Service Quality,4,I loved the overall experience. The process was simple.
+C0340,19,Male,Delivery,2,Very dissatisfied with the service. The process was frustrating.
+C0341,39,Male,Product Quality,3,The product arrived as expected.
+C0342,27,Female,Delivery,5,I had a great experience and would definitely recommend this service.
+C0343,50,Other,Service Quality,5,The service was excellent and the staff were very helpful.
+C0344,60,Male,Billing,2,The service was frustrating and confusing.
+C0345,27,Female,Product Quality,5,
+C0346,28,Other,Website/App,1,The overall experience was poor and difficult to use.
+C0347,33,Male,Billing,3,My experience was neither very good nor very bad.
+C0348,32,Other,Product Quality,3,My experience was neither very good nor very bad.
+C0349,30,Male,Service Quality,5,The product met my expectations and arrived on time.
+C0350,47,Male,Website/App,4,Amazing service and very easy to use.
+C0351,28,Female,Billing,2,The support team took too long to resolve my issue.
+C0352,21,Other,Website/App,5,Excellent customer support and a very good experience.
+C0353,24,Other,Billing,5,The support team resolved my issue quickly and politely.
+C0354,23,Female,Delivery,4,Excellent customer support and a very good experience.
+C0355,27,Male,Customer Support,5,Very satisfied with the service. Everything was smooth.
+C0356,46,Male,Customer Support,4,Amazing service and very easy to use.
+C0357,50,Male,Product Quality,3,The experience was average. There were both good and bad parts.
+C0358,41,Female,Customer Support,3,The experience was average. There were both good and bad parts.
+C0359,59,Male,Product Quality,2,The support team took too long to resolve my issue.
+C0360,48,Other,Product Quality,5,The product met my expectations and arrived on time.
+C0361,46,Other,Customer Support,5,The service was excellent and the staff were very helpful.
+C0362,34,Female,Product Quality,4,I am happy with the service and would use it again.
+C0363,51,Male,Customer Support,5,Very satisfied with the service. Everything was smooth.
+C0364,37,Female,Customer Support,3,The overall experience was normal.
+C0365,47,Female,Customer Support,5,The product met my expectations and arrived on time.
+C0366,56,Other,Customer Support,4,I am happy with the service and would use it again.
+C0367,33,Other,Product Quality,3,The service was okay and met my basic expectations.
+C0368,57,Male,Product Quality,4,The product quality was excellent and delivery was quick.
+C0369,60,Other,Customer Support,4,I loved the overall experience. The process was simple.
+C0370,22,Other,Billing,4,Excellent customer support and a very good experience.
+C0371,53,Female,Website/App,5,
+C0372,58,Male,Delivery,3,The service was okay and met my basic expectations.
+C0373,40,Female,Delivery,3,The experience was average. There were both good and bad parts.
+C0374,55,Other,Delivery,2,The overall experience was poor and difficult to use.
+C0375,52,Male,Service Quality,2,The product did not meet my expectations.
+C0376,48,Other,Product Quality,5,I had a great experience and would definitely recommend this service.
+C0377,47,Female,Delivery,3,The service was acceptable but could be improved.
+C0378,20,Male,Delivery,4,Excellent customer support and a very good experience.
+C0379,48,Male,Customer Support,5,Very satisfied with the service. Everything was smooth.
+C0380,36,Male,Customer Support,5,I loved the overall experience. The process was simple.
+C0381,35,Female,Delivery,4,Amazing service and very easy to use.
+C0382,46,Male,Delivery,5,The product met my expectations and arrived on time.
+C0383,49,Male,Billing,3,The experience was average. There were both good and bad parts.
+C0384,45,Female,Website/App,4,The product quality was excellent and delivery was quick.
+C0385,52,Male,Delivery,2,The overall experience was poor and difficult to use.
+C0386,60,Male,Delivery,4,Amazing service and very easy to use.
+C0387,28,Other,Website/App,3,The service was okay and met my basic expectations.
+C0388,40,Other,Website/App,3,The service was okay and met my basic expectations.
+C0389,22,Other,Service Quality,4,Excellent customer support and a very good experience.
+C0390,28,Female,Product Quality,5,The product met my expectations and arrived on time.
+C0391,20,Female,Customer Support,3,The process was straightforward.
+C0392,41,Male,Billing,1,The product quality was poor and delivery was very late.
+C0393,46,Male,Delivery,4,I had a great experience and would definitely recommend this service.
+C0394,54,Female,Billing,3,The process was straightforward.
+C0395,59,Male,Product Quality,5,The service was excellent and the staff were very helpful.
+C0396,29,Male,Billing,3,The service worked as expected.
+C0397,25,Male,Delivery,4,Very satisfied with the service. Everything was smooth.
+C0398,57,Male,Service Quality,5,The product met my expectations and arrived on time.
+C0399,30,Female,Product Quality,5,The product met my expectations and arrived on time.
+C0400,29,Other,Website/App,5,I loved the overall experience. The process was simple.
+C0401,60,Male,Service Quality,1,Customer support was slow and unhelpful.
+C0402,36,Male,Product Quality,4,The product quality was excellent and delivery was quick.
+C0403,41,Other,Product Quality,2,Very dissatisfied with the service. The process was frustrating.
+C0404,26,Female,Website/App,1,Customer support was slow and unhelpful.
+C0405,54,Male,Website/App,5,Excellent customer support and a very good experience.
+C0406,26,Other,Customer Support,1,The service was frustrating and confusing.
+C0407,48,Other,Website/App,5,I am happy with the service and would use it again.
+C0408,22,Female,Delivery,4,The product met my expectations and arrived on time.
+C0409,47,Other,Billing,3,The service worked as expected.
+C0410,58,Other,Product Quality,5,The product quality was excellent and delivery was quick.
+C0411,45,Other,Customer Support,5,Excellent customer support and a very good experience.
+C0412,27,Male,Product Quality,2,Very dissatisfied with the service. The process was frustrating.
+C0413,40,Other,Delivery,5,The support team resolved my issue quickly and politely.
+C0414,30,Other,Billing,3,
+C0415,57,Other,Customer Support,4,The product quality was excellent and delivery was quick.
+C0416,55,Other,Product Quality,2,I am unhappy with the service and would not use it again.
+C0417,56,Male,Billing,1,The service was disappointing and the staff were not helpful.
+C0418,23,Female,Service Quality,5,The support team resolved my issue quickly and politely.
+C0419,59,Female,Billing,4,The service was excellent and the staff were very helpful.
+C0420,49,Other,Billing,3,The support team answered my question.
+C0421,48,Female,Service Quality,4,The product met my expectations and arrived on time.
+C0422,22,Other,Customer Support,2,The service was frustrating and confusing.
+C0423,48,Male,Product Quality,3,The product arrived as expected.
+C0424,38,Other,Delivery,5,I loved the overall experience. The process was simple.
+C0425,43,Female,Delivery,4,I had a great experience and would definitely recommend this service.
+C0426,38,Female,Website/App,2,The product did not meet my expectations.
+C0427,33,Female,Customer Support,1,The service was frustrating and confusing.
+C0428,57,Male,Product Quality,5,The product quality was excellent and delivery was quick.
+C0429,38,Other,Service Quality,3,The product arrived as expected.
+C0430,49,Other,Website/App,4,The support team resolved my issue quickly and politely.
+C0431,49,Female,Customer Support,5,Excellent customer support and a very good experience.
+C0432,47,Female,Product Quality,4,The service was excellent and the staff were very helpful.
+C0433,21,Male,Website/App,4,The product met my expectations and arrived on time.
+C0434,36,Other,Customer Support,5,Amazing service and very easy to use.
+C0435,26,Male,Service Quality,3,The product was satisfactory for the price.
+C0436,41,Female,Website/App,1,Customer support was slow and unhelpful.
+C0437,30,Male,Billing,3,The product was satisfactory for the price.
+C0438,50,Male,Billing,3,The overall experience was normal.
+C0439,57,Female,Product Quality,5,Amazing service and very easy to use.
+C0440,41,Male,Billing,5,The product quality was excellent and delivery was quick.
+C0441,30,Other,Billing,4,The service was excellent and the staff were very helpful.
+C0442,20,Female,Product Quality,4,The product met my expectations and arrived on time.
+C0443,51,Male,Product Quality,4,Excellent customer support and a very good experience.
+C0444,26,Male,Billing,3,The product was satisfactory for the price.
+C0445,57,Other,Delivery,4,Excellent customer support and a very good experience.
+C0446,50,Other,Website/App,4,The support team resolved my issue quickly and politely.
+C0447,48,Female,Delivery,3,The experience was average. There were both good and bad parts.
+C0448,44,Other,Delivery,5,The service was excellent and the staff were very helpful.
+C0449,56,Male,Delivery,5,I am happy with the service and would use it again.
+C0450,54,Female,Service Quality,1,The product did not meet my expectations.
+C0451,28,Other,Service Quality,5,Amazing service and very easy to use.
+C0452,27,Other,Product Quality,1,I had a bad experience and would not recommend this service.
+C0453,30,Female,Website/App,3,The product arrived as expected.
+C0454,44,Other,Product Quality,4,I am happy with the service and would use it again.
+C0455,48,Other,Service Quality,1,The product quality was poor and delivery was very late.
+C0456,51,Female,Billing,3,My experience was neither very good nor very bad.
+C0457,51,Male,Delivery,5,The product met my expectations and arrived on time.
+C0458,52,Male,Billing,3,The support team answered my question.
+C0459,57,Male,Product Quality,5,The support team resolved my issue quickly and politely.
+C0460,53,Male,Product Quality,5,The support team resolved my issue quickly and politely.
+C0461,36,Other,Product Quality,4,The product met my expectations and arrived on time.
+C0462,38,Male,Delivery,4,The support team resolved my issue quickly and politely.
+C0463,36,Female,Billing,4,Amazing service and very easy to use.
+C0464,43,Male,Product Quality,3,The support team answered my question.
+C0465,23,Male,Website/App,4,The product met my expectations and arrived on time.
+C0466,31,Female,Billing,3,The service worked as expected.
+C0467,35,Female,Customer Support,4,I am happy with the service and would use it again.
+C0468,33,Female,Customer Support,4,Excellent customer support and a very good experience.
+C0469,32,Other,Product Quality,1,The service was frustrating and confusing.
+C0470,39,Other,Website/App,2,The product quality was poor and delivery was very late.
+C0471,18,Other,Product Quality,4,The product met my expectations and arrived on time.
+C0472,48,Other,Product Quality,5,The support team resolved my issue quickly and politely.
+C0473,38,Male,Service Quality,1,I had a bad experience and would not recommend this service.
+C0474,59,Other,Product Quality,4,The service was excellent and the staff were very helpful.
+C0475,29,Male,Product Quality,5,The service was excellent and the staff were very helpful.
+C0476,43,Male,Product Quality,5,The support team resolved my issue quickly and politely.
+C0477,20,Female,Delivery,4,I had a great experience and would definitely recommend this service.
+C0478,39,Male,Website/App,5,Excellent customer support and a very good experience.
+C0479,51,Male,Product Quality,5,The product met my expectations and arrived on time.
+C0480,35,Female,Customer Support,3,My experience was neither very good nor very bad.
+C0481,59,Male,Service Quality,2,The overall experience was poor and difficult to use.
+C0482,36,Other,Service Quality,5,The product quality was excellent and delivery was quick.
+C0483,57,Other,Website/App,5,Excellent customer support and a very good experience.
+C0484,38,Female,Website/App,4,The product quality was excellent and delivery was quick.
+C0485,26,Male,Delivery,5,The service was excellent and the staff were very helpful.
+C0486,34,Male,Product Quality,4,The support team resolved my issue quickly and politely.
+C0487,39,Male,Billing,5,The service was excellent and the staff were very helpful.
+C0488,34,Other,Delivery,4,The service was excellent and the staff were very helpful.
+C0489,60,Female,Website/App,3,The product was satisfactory for the price.
+C0490,50,Other,Delivery,4,The support team resolved my issue quickly and politely.
+C0491,41,Other,Product Quality,3,The product arrived as expected.
+C0492,48,Female,Website/App,5,I am happy with the service and would use it again.
+C0493,41,Male,Service Quality,4,The product met my expectations and arrived on time.
+C0494,52,Other,Product Quality,5,I am happy with the service and would use it again.
+C0495,23,Other,Website/App,4,I loved the overall experience. The process was simple.
+C0496,22,Other,Customer Support,1,Customer support was slow and unhelpful.
+C0497,50,Female,Billing,4,The product quality was excellent and delivery was quick.
+C0498,38,Other,Website/App,2,Very dissatisfied with the service. The process was frustrating.
+C0499,55,Male,Customer Support,5,The product met my expectations and arrived on time.
+C0500,21,Male,Product Quality,4,The product met my expectations and arrived on time.
+C0309,36,Female,Website/App,1,The overall experience was poor and difficult to use.
+C0014,24,Male,Delivery,4,I loved the overall experience. The process was simple.
+C0415,57,Other,Customer Support,4,The product quality was excellent and delivery was quick.
+C0033,18,Other,Delivery,4,I had a great experience and would definitely recommend this service.
+C0461,36,Other,Product Quality,4,The product met my expectations and arrived on time.
