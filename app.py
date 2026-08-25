@@ -139,7 +139,7 @@ df = None
 
 if data_source == "🟢 Use Demo Dataset":
 
-    demo_path = "DATA/automated_survey_analysis_dataset.csv"
+    demo_path = "automated_survey_analysis_dataset.csv"
 
     if os.path.exists(demo_path):
 
